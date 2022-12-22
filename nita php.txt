@@ -1,0 +1,28 @@
+<title>CV</title>r
+</head>s
+
+<P><b>Sunitasari</b></P>
+<img 
+
+<p><b>Tentang Saya</b></p>
+<p>Hai teman-teman, izin kan saya memperkenalkan diri</p>
+Nama saya Sunitasari biasa di panggil nita, asal kabupaten tegal jawa tengah. Berkuliah di Universitas Alma Ata Yogyakarta dengan prodi S1 Akuntansi
+Hobi saya menulis,membaca,podcast serta yang berbaur dengan seni lainya. 
+<p><b>Keahlian Saya</b></p>
+<ul>
+    <li>Menulis, public speaking, dan fotografer)</li>
+    <li>Teamwork</li>
+    <li>Can Communicate</li>
+</ul>
+<p><b>Pendidikan</b></p>
+<ol>
+<li> 2012-2017     SMP Negeri 01 Suradadi</li>
+<li> 2016-2019      MA Mahadut Tholabah babakan</li>
+<li> 2020-Sekarang  Universitas Alma Ata (Akuntansi)</li>
+</ol>
+    <p><b>Kontak saya</b></p>
+    <span><a href="https://wa.me/085692316011"> WA</a></span>
+    <span><a href="https://instagram.com/nitasa_ri?igshid=ZDdkNTZiNTM="> Instagram</a></span>
+    
+</html>
+r
